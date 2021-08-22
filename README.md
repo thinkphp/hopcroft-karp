@@ -7,3 +7,5 @@
    https://en.wikipedia.org/wiki/Bipartite_graph
    
    https://ro.metapedia.org/wiki/Algoritmul_hopcroft_karp
+   
+   https://www.geeksforgeeks.org/bipartite-graph/
