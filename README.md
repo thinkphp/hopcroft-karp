@@ -1,1 +1,1 @@
-# Hopcroft - Karl Algorithm
+# Hopcroft - Karp Algorithm
